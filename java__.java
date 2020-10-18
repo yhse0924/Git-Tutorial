@@ -5,6 +5,8 @@ public class javatest {
 	System.out.println(a);
 	int b =5;
 	System.out.println(a-b);
+<<<<<<< HEAD
 	System.out.println(a/b); // 주석
+
 }
 }
