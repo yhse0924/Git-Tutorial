@@ -3,5 +3,7 @@ public class javatest {
 	System.out.println("hellllllllo");
 	int a =10;
 	System.out.println(a);
+	int b =5;
+	System.out.println(a-b);
 }
 }
